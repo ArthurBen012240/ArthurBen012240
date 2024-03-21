@@ -38,11 +38,11 @@ if (name == "A")
 {
              document.write( "<P><b><i></br></br></P>");
 }
-else if (name =="Lahiru")
+else if (name =="lucifer")
 {
              document.write("");
 }
-else if (name =="Maleesha")
+else if (name =="who")
 {
              document.write("");
 }
